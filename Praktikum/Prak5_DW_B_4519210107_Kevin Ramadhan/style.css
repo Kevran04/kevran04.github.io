@@ -1,0 +1,42 @@
+body{
+	background-color: #F5DEB3;
+}
+.ka{
+	width:1330px;
+	height:100px;
+	background:grey;
+	border:solid 3px black;
+	margin: 10px 10px 10px 5px;
+	font-style: times new roman; 
+	color: black;
+	font-size: 50px; 
+	text-align: center;
+
+}
+.kaa{
+	width:700px;
+	height:120px;
+	background:grey;
+	border:solid 3px black;
+	margin: 10px 10px 10px 300px;
+	color: black;
+	font-style: times new roman;
+}
+.kaaa{
+	width:700px;
+	height:120px;
+	background:white;
+	border:solid 3px black;
+	margin: 10px 10px 10px 320px;
+	color: black;
+	font-style: times new roman;
+	font-style: center;
+
+}
+.kaaaa{
+	width:700px;
+	height:120px;
+	background:white;
+	border:solid 3px black;
+	margin: 10px 100px 10px 320px;
+}

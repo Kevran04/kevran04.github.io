@@ -1,0 +1,63 @@
+.kevin{	
+	background: #808080;
+	width: 1200px auto;
+	margin: 10px;
+}
+ 
+/*bagian header*/
+.kevin .kev1{
+	background: Black;
+	/*height: 50px;*/
+	padding: 2px 10px;
+	color: white;
+}
+ 
+/*akhir header*/
+ 
+/*bagian menu*/
+.kevin .kev2{
+	background: #C0C0C0;
+}
+ 
+.kevin .kev2 ul{
+	padding: 0;
+	margin: 0;
+	background: #F5F5F5;
+	overflow: hidden;
+}
+ 
+.kevin .kev2 ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+/*akhir menu*/
+ 
+.kev6{
+	clear: both;
+}
+ 
+.kev3{
+	height: 450px;
+}
+/*bagian sidebar*/
+.kevin .kev3 .kev4{
+	background: #A9A9A9;
+	float: left;	
+	width: 15%;
+	height: 100%;
+}
+ 
+/*akhir sidebar*/
+ 
+.kevin .kev3 .kev5{
+	background: #808080;
+	float: left;
+	height: 100%;
+	width: 85%;	
+}
+ 
+.kevin .kev7{
+	width: 100%;
+	padding: 10px;
+}
